@@ -1,0 +1,1016 @@
+﻿[
+  {
+    "ItemName": "body-settings",
+    "ItemLabel": "Body settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "body-background-color",
+    "ItemLabel": "Body background color",
+    "ItemDefault": "#ffffff",
+    "ItemValue": "#ffffff",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "body-color",
+    "ItemLabel": "Body foreground color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "body-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "body-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "16px",
+    "ItemValue": "16px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      }
+    ]
+  },
+  {
+    "ItemName": "body-line-height",
+    "ItemLabel": "Line height",
+    "ItemDefault": "24px",
+    "ItemValue": "24px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "20px",
+        "OptionValue": "20px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      },
+
+      {
+        "OptionText": "28px",
+        "OptionValue": "28px"
+      },
+      {
+        "OptionText": "32px",
+        "OptionValue": "32px"
+      },
+      {
+        "OptionText": "36px",
+        "OptionValue": "36px"
+      },
+      {
+        "OptionText": "40px",
+        "OptionValue": "40px"
+      }
+    ]
+  },
+
+  {
+    "ItemName": "theme-colors",
+    "ItemLabel": "Theme colors",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "topbar-background",
+    "ItemLabel": "Topbar/footer background color",
+    "ItemDefault": "#12151c",
+    "ItemValue": "#12151c",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "title-background",
+    "ItemLabel": "Page title background color",
+    "ItemDefault": "#ccd2be",
+    "ItemValue": "#ccd2be",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "footer-border",
+    "ItemLabel": "Footer border color",
+    "ItemDefault": "#393e3c",
+    "ItemValue": "#393e3c",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "top-footer-settings",
+    "ItemLabel": "Top and footer settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "top-footer-fore-color",
+    "ItemLabel": "Top/footer foreground color",
+    "ItemDefault": "#ffffff",
+    "ItemValue": "#ffffff",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "top-footer-hover-color",
+    "ItemLabel": "Top/footer hover color",
+    "ItemDefault": "#ccd2be",
+    "ItemValue": "#ccd2be",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "top-height",
+    "ItemLabel": "Topbar height",
+    "ItemDefault": "30px",
+    "ItemValue": "30px",
+    "ItemType": "text",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "top-footer-font-family",
+    "ItemLabel": "Top/footer font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "top-font-size",
+    "ItemLabel": "Font size topbar/footer",
+    "ItemDefault": "16px",
+    "ItemValue": "16px",
+    "ItemType": "text",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "menu-settings",
+    "ItemLabel": "Menu settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "menu-bar-color",
+    "ItemLabel": "Menu bar color",
+    "ItemDefault": "#393e3c",
+    "ItemValue": "#393e3c",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "menu-item-color",
+    "ItemLabel": "Menu item color",
+    "ItemDefault": "#ffffff",
+    "ItemValue": "#ffffff",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "menu-item-hover-bg",
+    "ItemLabel": "Menu item hover background color",
+    "ItemDefault": "#212322",
+    "ItemValue": "#212322",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "menu-item-hover-color",
+    "ItemLabel": "Menu item hover color",
+    "ItemDefault": "#ffffff",
+    "ItemValue": "#ffffff",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "menu-dropdown-bg-color",
+    "ItemLabel": "Menu dropdown background color",
+    "ItemDefault": "#212322",
+    "ItemValue": "#212322",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "menu-dropdown-item-color",
+    "ItemLabel": "Menu dropdown item color",
+    "ItemDefault": "#ffffff",
+    "ItemValue": "#ffffff",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "menu-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "menu-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "16px",
+    "ItemValue": "16px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      }
+    ]
+  },
+
+  {
+    "ItemName": "page-title-settings",
+    "ItemLabel": "Page title settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "title-color",
+    "ItemLabel": "Page title color",
+    "ItemDefault": "#12151c",
+    "ItemValue": "#12151c",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "title-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "title-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "30px",
+    "ItemValue": "30px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      },
+      {
+        "OptionText": "28px",
+        "OptionValue": "28px"
+      },
+      {
+        "OptionText": "30px",
+        "OptionValue": "30px"
+      },
+      {
+        "OptionText": "36px",
+        "OptionValue": "36px"
+      }
+    ]
+  },
+  {
+    "ItemName": "title-padding",
+    "ItemLabel": "Title padding",
+    "ItemDefault": "20px",
+    "ItemValue": "20px",
+    "ItemType": "text",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "breadcrumb-settings",
+    "ItemLabel": "Breadcrumb & Login settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "bc-bg-color",
+    "ItemLabel": "Breadcrumb background color",
+    "ItemDefault": "transparent",
+    "ItemValue": "transparent",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "bc-fg-color",
+    "ItemLabel": "Breadcrumb foreground color",
+    "ItemDefault": "#12151c",
+    "ItemValue": "#12151c",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "bc-hover-color",
+    "ItemLabel": "Breadcrumb hover color",
+    "ItemDefault": "#12151c",
+    "ItemValue": "#12151c",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "bc-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "bc-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "16px",
+    "ItemValue": "16px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      }
+    ]
+  },
+  {
+    "ItemName": "bc-border-color",
+    "ItemLabel": "Breadcrumb border color",
+    "ItemDefault": "#aeb7cb",
+    "ItemValue": "#aeb7cb",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "bc-padding-bottom",
+    "ItemLabel": "Breadcrumb bottom padding",
+    "ItemDefault": "20px",
+    "ItemValue": "20px",
+    "ItemType": "text",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "link-settings",
+    "ItemLabel": "Link settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "link-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "link-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "16px",
+    "ItemValue": "16px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      }
+    ]
+  },
+  {
+    "ItemName": "link-font-weight",
+    "ItemLabel": "Font weight",
+    "ItemDefault": "700",
+    "ItemValue": "700",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Light (300)",
+        "OptionValue": "300"
+      },
+      {
+        "OptionText": "Normal (400)",
+        "OptionValue": "400"
+      },
+
+      {
+        "OptionText": "Bold (700)",
+        "OptionValue": "700"
+      }
+    ]
+  },
+  {
+    "ItemName": "link-color",
+    "ItemLabel": "Link color color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "link-hover-color",
+    "ItemLabel": "Link hover color",
+    "ItemDefault": "#697667",
+    "ItemValue": "#697667",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "h1-settings",
+    "ItemLabel": "Header 1 settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h1-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "h1-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "36px",
+    "ItemValue": "36px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      },
+      {
+        "OptionText": "30px",
+        "OptionValue": "30px"
+      },
+      {
+        "OptionText": "28px",
+        "OptionValue": "28px"
+      },
+      {
+        "OptionText": "36px",
+        "OptionValue": "36px"
+      },
+      {
+        "OptionText": "48px",
+        "OptionValue": "48px"
+      }
+    ]
+  },
+  {
+    "ItemName": "h1-color",
+    "ItemLabel": "Header 1 color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h1-border-color",
+    "ItemLabel": "Header 1 border color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h1-border-width",
+    "ItemLabel": "Header 1 border width",
+    "ItemDefault": "1px",
+    "ItemValue": "1px",
+    "ItemType": "text",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "h2-settings",
+    "ItemLabel": "Header 2 settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h2-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "h2-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "30px",
+    "ItemValue": "30px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      },
+      {
+        "OptionText": "28px",
+        "OptionValue": "28px"
+      },
+      {
+        "OptionText": "30px",
+        "OptionValue": "30px"
+      },
+      {
+        "OptionText": "36px",
+        "OptionValue": "36px"
+      },
+      {
+        "OptionText": "48px",
+        "OptionValue": "48px"
+      }
+    ]
+  },
+  {
+    "ItemName": "h2-color",
+    "ItemLabel": "Header 2 color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h2-border-color",
+    "ItemLabel": "Header 2 border color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h2-border-width",
+    "ItemLabel": "Header 2 border width",
+    "ItemDefault": "1px",
+    "ItemValue": "1px",
+    "ItemType": "text",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "h3-settings",
+    "ItemLabel": "Header 3 settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h3-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "h3-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "24px",
+    "ItemValue": "24px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      },
+      {
+        "OptionText": "28px",
+        "OptionValue": "28px"
+      },
+      {
+        "OptionText": "30px",
+        "OptionValue": "30px"
+      },
+      {
+        "OptionText": "36px",
+        "OptionValue": "36px"
+      },
+      {
+        "OptionText": "48px",
+        "OptionValue": "48px"
+      }
+    ]
+  },
+  {
+    "ItemName": "h3-color",
+    "ItemLabel": "Header 3 color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h3-border-color",
+    "ItemLabel": "Header 3 border color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h3-border-width",
+    "ItemLabel": "Header 3 border width",
+    "ItemDefault": "1px",
+    "ItemValue": "1px",
+    "ItemType": "text",
+    "ItemOptions": []
+  },
+
+  {
+    "ItemName": "h4-settings",
+    "ItemLabel": "Header 4 settings",
+    "ItemDefault": "",
+    "ItemValue": "",
+    "ItemType": "header",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h4-font-family",
+    "ItemLabel": "Font family",
+    "ItemDefault": "'Ubuntu', sans-serif",
+    "ItemValue": "'Ubuntu', sans-serif",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "Ubuntu - sans-serif",
+        "OptionValue": "'Ubuntu', sans-serif"
+      },
+      {
+        "OptionText": "Dosis - sans-serif",
+        "OptionValue": "'Dosis', sans-serif"
+      },
+
+      {
+        "OptionText": "Orbitron - sans-serif",
+        "OptionValue": "'Orbitron', sans-serif"
+      },
+      {
+        "OptionText": "Indie Flower - cursive",
+        "OptionValue": "'Indie Flower', cursive"
+      }
+    ]
+  },
+  {
+    "ItemName": "h4-font-size",
+    "ItemLabel": "Font size",
+    "ItemDefault": "18px",
+    "ItemValue": "18px",
+    "ItemType": "select",
+    "ItemOptions": [
+      {
+        "OptionText": "14px",
+        "OptionValue": "14px"
+      },
+      {
+        "OptionText": "16px",
+        "OptionValue": "16px"
+      },
+
+      {
+        "OptionText": "18px",
+        "OptionValue": "18px"
+      },
+      {
+        "OptionText": "24px",
+        "OptionValue": "24px"
+      },
+      {
+        "OptionText": "28px",
+        "OptionValue": "28px"
+      },
+      {
+        "OptionText": "30px",
+        "OptionValue": "30px"
+      },
+      {
+        "OptionText": "36px",
+        "OptionValue": "36px"
+      },
+      {
+        "OptionText": "48px",
+        "OptionValue": "48px"
+      }
+    ]
+  },
+  {
+    "ItemName": "h4-color",
+    "ItemLabel": "Header 4 color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h4-border-color",
+    "ItemLabel": "Header 4 border color",
+    "ItemDefault": "#333333",
+    "ItemValue": "#333333",
+    "ItemType": "color-picker",
+    "ItemOptions": []
+  },
+  {
+    "ItemName": "h4-border-width",
+    "ItemLabel": "Header 4 border width",
+    "ItemDefault": "1px",
+    "ItemValue": "1px",
+    "ItemType": "text",
+    "ItemOptions": []
+  }
+
+
+]

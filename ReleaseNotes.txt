@@ -1,0 +1,16 @@
+﻿<h3>DnnContra Theme for Dnn</h3>
+	DnnConsulting.net <br/>
+	Geoff Barlow<br />
+	<a href="mailto:info@dnnconsulting.nl">info@DnnConsulting.nl</a><br />
+	<a href=https://dnnconsulting.net>https://dnnconsulting.net</a><br />
+<hr/>
+	<h3>About the DnnConnectThemeDemoDTE Theme</h3>
+
+	<h4>Version 01.00.00</h4><br />
+	<h4>Version 01.00.00</h4><br />
+	Initial release of the Dnn theme to showcase the DnnThemeEditor
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>None, first release</li>
+	</ul>
+</div>

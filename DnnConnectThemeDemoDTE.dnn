@@ -1,0 +1,80 @@
+<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="DnnC.DnnConnectThemeDemoDTE" type="Skin" version="01.00.00">
+      <friendlyName>DnnConnectThemeDemoDTE</friendlyName>
+      <description>A simple Dnn theme to showcase the DnnThemeEditor</description>
+      <owner>
+        <name>Geoff Barlow</name>
+        <organization>DnnConsulting.nl</organization>
+        <url>https://DnnConsulting.net</url>
+        <email>info@DnnConsulting.nl</email>
+      </owner>
+      <azureCompatible>true</azureCompatible>
+      <license src="License.txt"></license>
+      <releaseNotes src="ReleaseNotes.txt"></releaseNotes>
+      <dependencies>
+        <dependency type="CoreVersion">08.00.00</dependency>
+      </dependencies>
+      <components>
+        <component type="ResourceFile">
+          <resourceFiles>
+            <basePath>portals/_default/skins/DnnConnectThemeDemoDTE</basePath>
+            <resourceFile>
+              <name>Resources.zip</name>
+            </resourceFile>
+          </resourceFiles>
+        </component>
+        <component type="Skin">
+          <skinFiles>
+            <skinName>DnnConnectThemeDemoDTE</skinName>
+            <basePath />
+          </skinFiles>
+        </component>
+        <component type="File">
+          <files>
+            <basePath>DesktopModules/DnnThemeEditor/Themedata/DnnConnectThemeDemoDTE</basePath>
+            <file>
+              <name>DnnConnectThemeDemoDTE_config.txt</name>
+            </file>
+            <file>
+              <name>DnnConnectThemeDemoDTE_template.css</name>
+            </file>
+          </files>
+        </component>
+      </components>
+    </package>
+    
+    <package name="DnnC.Containers.DnnConnectThemeDemoDTE" type="Container" version="01.00.00">
+      <friendlyName>DnnConnectThemeDemoDTE</friendlyName>
+      <description>Containers for the DnnConnectThemeDemoDTE Theme package.</description>
+      <owner>
+        <name>Geoff Barlow</name>
+        <organization>DnnConsulting.net</organization>
+        <url>https://www.DnnConsulting.net</url>
+        <email>info@DnnConsulting.nl</email>
+      </owner>
+      <license src="License.txt"></license>
+      <releaseNotes src="ReleaseNotes.txt"></releaseNotes>
+      <dependencies>
+        <dependency type="CoreVersion">08.00.00</dependency>
+      </dependencies>
+      <components>
+        <component type="Container">
+          <containerFiles>
+            <basePath>portals/_default/containers/DnnConnectThemeDemoDTE</basePath>
+            <containerName>DnnConnectThemeDemoDTE</containerName>
+            <containerFile>
+              <name>Clean.ascx</name>
+            </containerFile>
+            <containerFile>
+              <name>Title_h1.ascx</name>
+            </containerFile>
+            <containerFile>
+              <name>Title_h2.ascx</name>
+            </containerFile>            
+          </containerFiles>
+        </component>
+      </components>            
+    </package>
+  </packages>
+</dotnetnuke>

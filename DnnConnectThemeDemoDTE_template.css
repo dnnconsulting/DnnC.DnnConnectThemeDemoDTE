@@ -1,0 +1,120 @@
+﻿body, p {
+  font-family:      [CSST:body-font-family];
+  font-size:        [CSST:body-font-size];
+  color:            [CSST:body-color] !important;
+  background-color: [CSST:body-background-color]; 
+  line-height:      [CSST:body-line-height];
+}
+
+.topbar {
+    color:          [CSST:top-footer-fore-color];
+    background:     [CSST:topbar-background];
+    height:         [CSST:top-height];
+    line-height:    [CSST:top-height];
+    font-size:      [CSST:top-font-size];
+    font-family:    [CSST:top-footer-font-family];
+}
+
+.topbar a:hover{
+    color:          [CSST:top-footer-hover-color];
+}
+.footer a:hover{
+    color:          [CSST:top-footer-hover-color];
+}
+
+
+
+.footer {
+    border-top:     solid 10px [CSST:footer-border];
+    background:     [CSST:topbar-background];
+    color:          [CSST:top-footer-fore-color];
+    font-size:      [CSST:top-font-size];
+    font-family:    [CSST:top-footer-font-family];
+}
+.pagetitle {
+    background:     [CSST:title-background];
+    color:          [CSST:title-color];
+    padding-top:    [CSST:title-padding];
+    padding-bottom: [CSST:title-padding];
+}
+.pagetitle h2 {
+    color:          [CSST:title-color];
+    font-size:      [CSST:title-font-size];
+    font-family:    [CSST:title-font-family];
+}
+.breadcrumb {
+    background-color:   [CSST:bc-bg-color];
+    font-family:        [CSST:bc-font-family];
+    font-size:          [CSST:bc-font-size];
+    border-bottom:      solid 1px [CSST:bc-border-color];
+    margin-bottom:      [CSST:bc-padding-bottom];   
+}
+.breadcrumb a, 
+.breadcrumb a:link, 
+.breadcrumb a:focus, 
+.breadcrumb a:active    { color: [CSST:bc-fg-color]; }
+.breadcrumb a:hover     { color: [CSST:bc-hover-color]; }
+
+
+
+.dnnc-container a:link, 
+.dnnc-container a:active, 
+.dnnc-container a:focus, 
+.dnnc-container a:visited { 
+    font-family:        [CSST:link-font-family];
+    font-weight:        [CSST:link-font-weight] ; 
+    font-size:          [CSST:link-font-size] !important;
+    color:              [CSST:link-color] !important;
+}
+.dnnc-container a:hover { color: [CSST:link-hover-color] !important; }
+
+.dnnc-container .header-wrapper h1,
+.dnnc-container h1 {
+    border-bottom:      solid [CSST:h1-border-width] [CSST:h1-border-color];
+    font-family:        [CSST:h1-font-family];
+    font-size:          [CSST:h1-font-size];
+    color:              [CSST:h1-color];
+}
+.dnnc-container .header-wrapper h2,
+.dnnc-container h2 {
+    border-bottom:      solid [CSST:h2-border-width] [CSST:h2-border-color];
+    font-family:        [CSST:h2-font-family];
+    font-size:          [CSST:h2-font-size];
+    color:              [CSST:h2-color];
+}
+.dnnc-container .header-wrapper h3,
+.dnnc-container h3 {
+    border-bottom:      solid [CSST:h3-border-width] [CSST:h3-border-color];
+    font-family:        [CSST:h3-font-family];
+    font-size:          [CSST:h3-font-size];
+    color:              [CSST:h3-color];
+}
+.dnnc-container .header-wrapper h4,
+.dnnc-container h4 {
+    border-bottom:      solid [CSST:h4-border-width] [CSST:h4-border-color];
+    font-family:        [CSST:h4-font-family];
+    font-size:          [CSST:h4-font-size];
+    color:              [CSST:h4-color];
+}
+
+
+
+
+.header { background: [CSST:menu-bar-color]; }
+
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color: [CSST:menu-item-hover-color] !important;
+    background-color: [CSST:menu-item-hover-bg] !important;
+}
+.dropdown-menu {
+    background-color: [CSST:menu-dropdown-bg-color];
+}
+.dropdown-menu > li > a {
+    color: [CSST:menu-dropdown-item-color] !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-family: [CSST:menu-font-family];
+    font-size: [CSST:menu-font-size];
+}
